@@ -157,11 +157,11 @@ span:not(.channel-name):not(.spinner-item){backface-visibility:hidden;}
 .context-menu .item-subMenu{background-color:rgba(50, 51, 57, .8)!important;}
 
 /*Dark BG Solid*/
-.classexample{background-color:rgb(50, 51, 57)!important;}
+.classexample{background-color:rgb(222, 81, 62)!important;}
 
 /*Teal BG .2*/
 .classexample{
-	background-color:rgba(0, 128, 128, .2)!important;}
+	background-color:rgba(225, 42, 23, .2)!important;}
 
 /*Teal BG .5*/
 .chat .new-messages-bar{
